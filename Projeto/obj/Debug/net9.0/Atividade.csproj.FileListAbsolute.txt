@@ -1,0 +1,42 @@
+C:\Users\luisc\Documents\estudos\SENAI\atividade\bin\Debug\net9.0\Atividade.exe
+C:\Users\luisc\Documents\estudos\SENAI\atividade\bin\Debug\net9.0\Atividade.deps.json
+C:\Users\luisc\Documents\estudos\SENAI\atividade\bin\Debug\net9.0\Atividade.runtimeconfig.json
+C:\Users\luisc\Documents\estudos\SENAI\atividade\bin\Debug\net9.0\Atividade.dll
+C:\Users\luisc\Documents\estudos\SENAI\atividade\bin\Debug\net9.0\Atividade.pdb
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.dll
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\refint\Atividade.dll
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.pdb
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+C:\Users\luisc\Documents\estudos\SENAI\atividade\obj\Debug\net9.0\ref\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\bin\Debug\net9.0\Atividade.exe
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\bin\Debug\net9.0\Atividade.deps.json
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\bin\Debug\net9.0\Atividade.runtimeconfig.json
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\bin\Debug\net9.0\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\bin\Debug\net9.0\Atividade.pdb
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\refint\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.pdb
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Atividade\obj\Debug\net9.0\ref\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\bin\Debug\net9.0\Atividade.exe
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\bin\Debug\net9.0\Atividade.deps.json
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\bin\Debug\net9.0\Atividade.runtimeconfig.json
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\bin\Debug\net9.0\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\bin\Debug\net9.0\Atividade.pdb
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\refint\Atividade.dll
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.pdb
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+C:\Users\luisc\Documents\estudos\Sistema de Controle de Clientes\Projeto\obj\Debug\net9.0\ref\Atividade.dll
